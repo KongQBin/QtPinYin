@@ -1,0 +1,39 @@
+├── atomdictbase.h
+├── build.cpp
+├── dict
+│   ├── rawdict_utf16_65105_freq.txt
+│   └── valid_utf16.txt
+├── dictbuilder.cpp
+├── dictbuilder.h
+├── dictdef.h
+├── dictlist.cpp
+├── dictlist.h
+├── dicttrie.cpp
+├── dicttrie.h
+├── lpicache.cpp
+├── lpicache.h
+├── matrixsearch.cpp
+├── matrixsearch.h
+├── mystdlib.cpp
+├── mystdlib.h
+├── ngram.cpp
+├── ngram.h
+├── pinyinime.cpp
+├── pinyinime.h
+├── searchutility.cpp
+├── searchutility.h
+├── spellingtable.cpp
+├── spellingtable.h
+├── spellingtrie.cpp
+├── spellingtrie.h
+├── splparser.cpp
+├── splparser.h
+├── sync.cpp
+├── sync.h
+├── userdict.cpp
+├── userdict.h
+├── utf16char.cpp
+├── utf16char.h
+├── utf16reader.cpp
+└── utf16reader.h
+
